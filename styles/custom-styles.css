@@ -13,3 +13,16 @@
     padding: .5rem 3.25rem;
 
 }
+.honda-grayscale{
+    filter: grayscale();
+}
+.clints-says-color{
+    color: #E76F51;
+}
+.field{
+    color: #E77C40;
+}
+.empty{
+    color:#E0E0E0;
+    
+}
