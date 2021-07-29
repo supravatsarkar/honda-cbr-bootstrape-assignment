@@ -1,0 +1,15 @@
+/* Google Font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+.honda-top-herder{
+    background-color: #264653;
+}
+.banner-text-color{
+    color: #E0E0E0;
+}
+.btn-bg-color{
+    background-color: #E76F51;
+    border-radius: 5px;
+    padding: .5rem 3.25rem;
+
+}
